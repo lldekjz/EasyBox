@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EasyBox</string>
+    <string name="welcome_message_textview_text">Welcome to EasyBox!</string>
+    <string name="continue_button_text">continue</string>
+    <string name="submit_phone_number_activity_textview1_text">Register to EasyBox.</string>
+    <string name="submit_phone_number_activity_textview2_text">Please verify your country code and enter your phone number.</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="country_flag_text">Flag</string>
+    <string name="telephone_code_spinner_prompt_text">Choose your country</string>
+</resources>
