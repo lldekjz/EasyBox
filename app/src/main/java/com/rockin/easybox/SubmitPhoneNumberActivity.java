@@ -135,6 +135,11 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
                     ((TextView) convertView.findViewById(R.id.actual_country_name)).setText(
                             telephoneCodeSpinnerItem.getActual_country_name()
                     );
+                    int country_flag_id = getResources().getIdentifier(
+                            telephoneCodeSpinnerItem.getCountry_flag(), "drawable",  getPackageName());
+                    ((ImageView) convertView.findViewById(R.id.country_flag)).setImageResource(
+                            country_flag_id
+                    );
                 }
             }
 
@@ -145,6 +150,7 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
         public View getDropDownView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
 
             TelephoneCodeSpinnerItem telephoneCodeSpinnerItem = getItem(position);
+            String telephone_code_spinner_log_tag = "TCSLT";
 
             if(convertView == null && telephoneCodeSpinnerItem != null) {
                 if(telephoneCodeSpinnerItem.getEnglish_country_name().isEmpty()){
@@ -161,7 +167,7 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
 
 
 
-            if(telephoneCodeSpinnerItem != null) {
+            try {
 
                 ((TextView) convertView.findViewById(R.id.actual_country_name)).setText(
                         telephoneCodeSpinnerItem.getActual_country_name()
@@ -178,6 +184,8 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
                 );
                 String telePhone_code_temp = "+"+telephoneCodeSpinnerItem.getTelephone_code();
                 ((TextView) convertView.findViewById(R.id.telephone_code)).setText(telePhone_code_temp);
+            }catch (NullPointerException npe){
+                Log.e(telephone_code_spinner_log_tag, "NullPointer in ipinner item");
             }
 
             return convertView;

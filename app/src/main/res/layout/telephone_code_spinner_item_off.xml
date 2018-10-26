@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:id="@+id/actual_country_name"
-    android:gravity="start"
-    android:paddingStart="5dp"
-    android:paddingEnd="5dp"
-    android:textColor="@color/theme_color"
-    android:textSize="20sp"/>
+    android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/country_flag"
+        android:paddingStart="15dp"
+        android:paddingEnd="1dp"
+        android:layout_width="55dp"
+        android:layout_height="35dp"
+        android:contentDescription="@string/country_flag_text" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_gravity="start"
+        android:layout_height="wrap_content"
+        android:id="@+id/actual_country_name"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:textColor="@color/theme_color"
+        android:textSize="20sp"/>
+
+</LinearLayout>
