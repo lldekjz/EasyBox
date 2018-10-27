@@ -45,7 +45,7 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
         countries_spinner.setAdapter(new TelephoneCodeSpinnerAdapter(this,
                 telephone_code_array));
 
-        /*countries_spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+        countries_spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
 
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
@@ -58,7 +58,7 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
             public void onNothingSelected(AdapterView<?> parent) { }
         });
 
-        TextWatcher telephone_code_text_watcher = new TextWatcher() {
+        /*TextWatcher telephone_code_text_watcher = new TextWatcher() {
 
             @Override
             public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) { }
@@ -165,8 +165,6 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
                 }
             }
 
-
-
             try {
 
                 ((TextView) convertView.findViewById(R.id.actual_country_name)).setText(
@@ -185,7 +183,7 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
                 String telePhone_code_temp = "+"+telephoneCodeSpinnerItem.getTelephone_code();
                 ((TextView) convertView.findViewById(R.id.telephone_code)).setText(telePhone_code_temp);
             }catch (NullPointerException npe){
-                Log.e(telephone_code_spinner_log_tag, "NullPointer in ipinner item");
+                Log.e(telephone_code_spinner_log_tag, "NullPointer in spinner item");
             }
 
             return convertView;
@@ -241,7 +239,7 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
         } catch (IOException e1) {
             Log.e(telephone_code_json_file_log_tag, "telephone_code_json_file could not open", e1);
         } catch (JSONException e2) {
-            Log.e(telephone_code_json_file_log_tag, "JSONArray got the error", e2);
+            Log.e(telephone_code_json_file_log_tag, "JSONArray got the error");
         }
     }
 }

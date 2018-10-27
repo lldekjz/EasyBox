@@ -35,7 +35,7 @@
             android:layout_height="wrap_content"
             android:text="@string/submit_phone_number_activity_textview1_text"
             android:textAppearance="@android:style/TextAppearance.Widget.PopupMenu.Large"
-            android:textColor="@color/theme_color"
+            android:textColor="@color/theme_color_dark"
             android:textSize="25sp"
             android:textStyle="bold" />
 
@@ -45,7 +45,7 @@
             android:gravity="center"
             android:text="@string/submit_phone_number_activity_textview2_text"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
-            android:textColor="@color/theme_color"
+            android:textColor="@color/black_grey"
             android:textSize="20sp" />
 
     </LinearLayout>
@@ -85,7 +85,7 @@
             android:layout_height="wrap_content"
             android:text="+"
             android:textSize="30sp"
-            android:textColor="@color/theme_color"/>
+            android:textColor="@color/black_grey"/>
 
         <Space
             android:layout_width="10dp"
@@ -95,11 +95,11 @@
             android:id="@+id/telephone_code_edittext"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:ems="2"
+            android:ems="3"
             android:gravity="center"
             android:inputType="phone"
-            android:textColor="@color/theme_color"
-            android:textSize="30sp" />
+            android:textColor="@color/black_grey"
+            android:textSize="20sp" />
 
         <Space
             android:layout_width="10dp"
@@ -109,12 +109,12 @@
             android:id="@+id/phone_number_edittext"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:ems="10"
+            android:ems="12"
             android:fontFamily="monospace"
-            android:gravity="center"
+            android:gravity="start"
             android:inputType="phone"
-            android:textColor="@color/theme_color"
-            android:textSize="30sp" />
+            android:textColor="@color/black_grey"
+            android:textSize="20sp" />
 
         <Space
             android:layout_width="60dp"
@@ -162,7 +162,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        app:layout_constraintGuide_percent="0.66"
+        app:layout_constraintGuide_percent="0.8"
         app:layout_constraintGuide_begin="352dp" />
 
     <LinearLayout
@@ -177,10 +177,10 @@
         android:orientation="horizontal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/guideline2"
-        app:layout_constraintVertical_bias="0.73">
+        app:layout_constraintTop_toTopOf="@+id/guideline3"
+        app:layout_constraintVertical_bias="1.0">
 
         <Space
             android:layout_width="60dp"

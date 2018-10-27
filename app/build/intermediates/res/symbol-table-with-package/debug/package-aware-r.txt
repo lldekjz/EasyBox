@@ -373,6 +373,7 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color black_grey
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -395,6 +396,7 @@ color foreground_material_light
 color grey_white
 color highlighted_text_material_dark
 color highlighted_text_material_light
+color logo_background
 color material_blue_grey_800
 color material_blue_grey_900
 color material_blue_grey_950
@@ -430,6 +432,7 @@ color switch_thumb_material_light
 color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
 color theme_color
+color theme_color_dark
 color tooltip_background_dark
 color tooltip_background_light
 dimen abc_action_bar_content_inset_material
@@ -633,7 +636,6 @@ drawable abc_vector_test
 drawable brazil_flag
 drawable gay_flag
 drawable ic_launcher_background
-drawable ic_launcher_foreground
 drawable india_flag
 drawable indonesia_flag
 drawable indonesia_flag_2
@@ -871,8 +873,9 @@ layout support_simple_spinner_dropdown_item
 layout telephone_code_spinner_item_off
 layout telephone_code_spinner_item_on
 layout telephone_code_spinner_item_on_2
-mipmap ic_launcher
-mipmap ic_launcher_round
+mipmap logo
+mipmap logo_foreground
+mipmap logo_round
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
