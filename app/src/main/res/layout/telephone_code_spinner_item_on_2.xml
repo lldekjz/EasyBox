@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:paddingStart="10dp"
         android:paddingEnd="1dp"
-        android:textColor="@color/theme_color"
+        android:textColor="@color/black_grey"
         android:textSize="20sp" />
 
     <Space
@@ -34,7 +34,7 @@
         android:layout_height="wrap_content"
         android:paddingEnd="10dp"
         android:paddingStart="10dp"
-        android:textColor="@color/theme_color"
+        android:textColor="@color/black_grey"
         android:textSize="23sp" />
 
 </LinearLayout>
