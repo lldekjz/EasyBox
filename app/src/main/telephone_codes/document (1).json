@@ -1,0 +1,1460 @@
+[
+  {
+    "actual_country_name":"भारत",
+    "english_country_name":"India",
+    "country_flag":"india_flag",
+    "telephone_code":"91"
+  },
+  {
+    "actual_country_name":"پاکِستان‬",
+    "english_country_name":"Pakistan",
+    "country_flag":"pakistan_flag",
+    "telephone_code":"92"
+  },
+  {
+    "actual_country_name":"iNingizimu Afrika",
+    "english_country_name":"South Africa",
+    "country_flag":"south_africa_flag",
+    "telephone_code":"27"
+  },
+  {
+    "actual_country_name":"United Kingdom",
+    "english_country_name":"",
+    "country_flag":"uk_flag",
+    "telephone_code":"44"
+  },
+  {
+    "actual_country_name":"United States",
+    "english_country_name":"",
+    "country_flag":"usa_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Åland",
+    "english_country_name":"Åland Islands",
+    "country_flag":"aland_flag",
+    "telephone_code":"358"
+  },
+  {
+    "actual_country_name":"Amerika Sāmoa",
+    "english_country_name":"American Samoa",
+    "country_flag":"american_samoa_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Principat de les Valls d'Andorra",
+    "english_country_name":"Andorra",
+    "country_flag":"andorra_flag",
+    "telephone_code":"376"
+  },
+  {
+    "actual_country_name":"República de Angola",
+    "english_country_name":"Angola,
+    "country_flag":"angola_flag",
+    "telephone_code":"244"
+  },
+  {
+    "actual_country_name":"Anguilla",
+    "english_country_name":"",
+    "country_flag":"anguilla_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Antigua and Barbuda",
+    "english_country_name":"",
+    "country_flag":"antigua_barbuda_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"República Argentina",
+    "english_country_name":"Argentina",
+    "country_flag":"argentina_flag",
+    "telephone_code":"54"
+  },
+  {
+    "actual_country_name":"Aruba",
+    "english_country_name":"",
+    "country_flag":"aruba_flag",
+    "telephone_code":"297"
+  },
+  {
+    "actual_country_name":"Ascension Island",
+    "english_country_name":"",
+    "country_flag":"ascension_island_flag",
+    "telephone_code":"247"
+  },
+  {
+    "actual_country_name":"Commonwealth of Australia",
+    "english_country_name":"Australia",
+    "country_flag":"australia_flag",
+    "telephone_code":"61"
+  },
+  {
+    "actual_country_name":"Azərbaycan Respublikası",
+    "english_country_name":"azerbaijan",
+    "country_flag":"azerbaijan_flag",
+    "telephone_code":"994"
+  },
+  {
+    "actual_country_name":"Commonwealth of The Bahamas",
+    "english_country_name":"Bahamas",
+    "country_flag":"bahamas_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Barbados",
+    "english_country_name":"",
+    "country_flag":"barbados_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Koninkrijk België",
+    "english_country_name":"Belgium",
+    "country_flag":"belgium_flag",
+    "telephone_code":"32"
+  },
+  {
+    "actual_country_name":"Belize",
+    "english_country_name":"",
+    "country_flag":"belize_flag",
+    "telephone_code":"501"
+  },
+  {
+    "actual_country_name":"République du Bénin",
+    "english_country_name":"Benin",
+    "country_flag":"benin_flag",
+    "telephone_code":"229"
+  },
+  {
+    "actual_country_name":"Bermuda",
+    "english_country_name":"",
+    "country_flag":"bermuda_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Estado Plurinacional de Bolivia",
+    "english_country_name":"Bolivia",
+    "country_flag":"bolivia_flag",
+    "telephone_code":"591"
+  },
+  {
+    "actual_country_name":"Босна и Херцеговина",
+    "english_country_name":"Bosnia and Herzegovina",
+    "country_flag":"bosnia_herzegovina_flag",
+    "telephone_code":"387"
+  },
+  {
+    "actual_country_name":"Lefatshe la Botswana",
+    "english_country_name":"Botswana",
+    "country_flag":"botswana_flag",
+    "telephone_code":"267"
+  },
+  {
+    "actual_country_name":"República Federativa do Brasil",
+    "english_country_name":"Brazil",
+    "country_flag":"brazil_flag",
+    "telephone_code":"55"
+  },
+  {
+    "actual_country_name":"British Indian Ocean Territory",
+    "english_country_name":"",
+    "country_flag":"british_ocean_flag",
+    "telephone_code":"246"
+  },
+  {
+    "actual_country_name":"Virgin Islands",
+    "english_country_name":"British Virgin Islands",
+    "country_flag":"virgin_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"نڬارا بروني دارالسلام",
+    "english_country_name":"Brunei",
+    "country_flag":"brunei_flag",
+    "telephone_code":"673"
+  },
+  {
+    "actual_country_name":"Burkina Faso",
+    "english_country_name":"",
+    "country_flag":"burkina_flag",
+    "telephone_code":"226"
+  },
+  {
+    "actual_country_name":"Republika y'Uburundi",
+    "english_country_name":"Burundi",
+    "country_flag":"burundi_flag",
+    "telephone_code":"257"
+  },
+  {
+    "actual_country_name":"República de Cabo Verde",
+    "english_country_name":"Cape Verde",
+    "country_flag":"verde_flag",
+    "telephone_code":"238"
+  },
+  {
+    "actual_country_name":"République du Cameroun",
+    "english_country_name":"Cameroon",
+    "country_flag":"cameroon_flag",
+    "telephone_code":"237"
+  },
+  {
+    "actual_country_name":"Canada",
+    "english_country_name":"",
+    "country_flag":"canada_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Caribisch Nederland",
+    "english_country_name":"Caribbean Netherlands",
+    "country_flag":"caribbean_flag",
+    "telephone_code":"599"
+  },
+  {
+    "actual_country_name":"Cayman Islands",
+    "english_country_name":"",
+    "country_flag":"cayman_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"República de Chile",
+    "english_country_name":"Chile",
+    "country_flag":"chile_flag",
+    "telephone_code":"56"
+  },
+  {
+    "actual_country_name":"Christmas Island",
+    "english_country_name":"",
+    "country_flag":"christmas_flag",
+    "telephone_code":"61"
+  },
+  {
+    "actual_country_name":"Stato della Città del Vaticano",
+    "english_country_name":"Vatican City",
+    "country_flag":"vatican_flag",
+    "telephone_code":"379"
+  },
+  {
+    "actual_country_name":"República de Colombia",
+    "english_country_name":"Colombia",
+    "country_flag":"colombia_flag",
+    "telephone_code":"57"
+  },
+  {
+    "actual_country_name":"République du Congo",
+    "english_country_name":"Congo-Brazzaville",
+    "country_flag":"congob_flag",
+    "telephone_code":"242"
+  },
+  {
+    "actual_country_name":"Ville de Kinshasa",
+    "english_country_name":"Congo-Kinshasa",
+    "country_flag":"congok_flag",
+    "telephone_code":"243"
+  },
+  {
+    "actual_country_name":"República de Cuba",
+    "english_country_name":"Kūki 'Āirani",
+    "country_flag":"cook_flag",
+    "telephone_code":"682"
+  },
+  {
+    "actual_country_name":"República de Costa Rica",
+    "english_country_name":"Costa Rica",
+    "country_flag":"costa_flag",
+    "telephone_code":"506"
+  },
+  {
+    "actual_country_name":"Côte d'Ivoire",
+    "english_country_name":"Ivory Coast",
+    "country_flag":"ivory_flag",
+    "telephone_code":"225"
+  },
+  {
+    "actual_country_name":"República de Cuba",
+    "english_country_name":"Cuba",
+    "country_flag":"cuba_flag",
+    "telephone_code":"53"
+  },
+  {
+    "actual_country_name":"Curaçao",
+    "english_country_name":"Curacao",
+    "country_flag":"curacao_flag",
+    "telephone_code":"599"
+  },
+  {
+    "actual_country_name":"Česká republika",
+    "english_country_name":"Czech Republic",
+    "country_flag":"czech_flag",
+    "telephone_code":"420"
+  },
+  {
+    "actual_country_name":"Kongeriget Danmark",
+    "english_country_name":"Denmark",
+    "country_flag":"denmark_flag",
+    "telephone_code":"45"
+  },
+  {
+    "actual_country_name":"Bundesrepublik Deutschland",
+    "english_country_name":"Germany",
+    "country_flag":"germany_flag",
+    "telephone_code":"49"
+  },
+  {
+    "actual_country_name":"جمهورية جيبوتي",
+    "english_country_name":"Djibouti",
+    "country_flag":"dj_flag",
+    "telephone_code":"253"
+  },
+  {
+    "actual_country_name":"Wai‘tu kubuli",
+    "english_country_name":"Dominica",
+    "country_flag":"dom_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Ikwayur Runaq Imayka",
+    "english_country_name":"Ecuador",
+    "country_flag":"ecu_flag",
+    "telephone_code":"593"
+  },
+  {
+    "actual_country_name":"Eesti Vabariik",
+    "english_country_name":"Estonia",
+    "country_flag":"esto_flag",
+    "telephone_code":"372"
+  },
+  {
+    "actual_country_name":"República de El Salvador",
+    "english_country_name":"El Salvador",
+    "country_flag":"sal_flag",
+    "telephone_code":"503"
+  },
+  {
+    "actual_country_name":"Reino de España",
+    "english_country_name":"Spain",
+    "country_flag":"spain_flag",
+    "telephone_code":"34"
+  },
+  {
+    "actual_country_name":"Falkland Islands",
+    "english_country_name":"",
+    "country_flag":"falk_flag",
+    "telephone_code":"500"
+  },
+  {
+    "actual_country_name":"Matanitu Tugalala o Viti",
+    "english_country_name":"Fiji",
+    "country_flag":"fiji_flag",
+    "telephone_code":"679"
+  },
+  {
+    "actual_country_name":"Føroyar",
+    "english_country_name":"Faroe Islands",
+    "country_flag":"faro_flag",
+    "telephone_code":"298"
+  },
+  {
+    "actual_country_name":"République française",
+    "english_country_name":"France",
+    "country_flag":"france_flag",
+    "telephone_code":"33"
+  },
+  {
+    "actual_country_name":"République gabonaise",
+    "english_country_name":"Gabon",
+    "country_flag":"gabon_flag",
+    "telephone_code":"241"
+  },
+  {
+    "actual_country_name":"Gambia",
+    "english_country_name":"",
+    "country_flag":"gambia_flag",
+    "telephone_code":"220"
+  },
+  {
+    "actual_country_name":"Ghana",
+    "english_country_name":"",
+    "country_flag":"ghana_flag",
+    "telephone_code":"233"
+  },
+  {
+    "actual_country_name":"Gibraltar",
+    "english_country_name":"",
+    "country_flag":"gib_flag",
+    "telephone_code":"350"
+  },
+  {
+    "actual_country_name":"Grenada",
+    "english_country_name":"",
+    "country_flag":"gre_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Guadeloupe",
+    "english_country_name":"",
+    "country_flag":"gua_flag",
+    "telephone_code":"590"
+  },
+  {
+    "actual_country_name":"Guåhån",
+    "english_country_name":"Guam",
+    "country_flag":"guam_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"República de Guatemala",
+    "english_country_name":"Guatemala",
+    "country_flag":"guate_flag",
+    "telephone_code":"502"
+  },
+  {
+    "actual_country_name":"Guernsey",
+    "english_country_name":"",
+    "country_flag":"guernsey_flag",
+    "telephone_code":"44"
+  },
+  {
+    "actual_country_name":"República da Guiné-Bissau",
+    "english_country_name":"Guinea-Bissau",
+    "country_flag":"guineabiss_flag",
+    "telephone_code":"245"
+  },
+  {
+    "actual_country_name":"República de Guinea Ecuatorial",
+    "english_country_name":"Equatorial Guinea",
+    "country_flag":"guineaeq_flag",
+    "telephone_code":"240"
+  },
+  {
+    "actual_country_name":"République de Guinée",
+    "english_country_name":"Guinea",
+    "country_flag":"guinea_flag",
+    "telephone_code":"224"
+  },
+  {
+    "actual_country_name":"Guyana",
+    "english_country_name":"",
+    "country_flag":"guyana_flag",
+    "telephone_code":"592"
+  },
+  {
+    "actual_country_name":"Guyane",
+    "english_country_name":"French Guiana",
+    "country_flag":"french_guiana_flag",
+    "telephone_code":"594"
+  },
+  {
+    "actual_country_name":"Repiblik Ayiti",
+    "english_country_name":"Haiti",
+    "country_flag":"haiti_flag",
+    "telephone_code":"509"
+  },
+  {
+    "actual_country_name":"República de Honduras",
+    "english_country_name":"Honduras",
+    "country_flag":"honduras_flag",
+    "telephone_code":"504"
+  },
+  {
+    "actual_country_name":"Republika Hrvatska",
+    "english_country_name":"Croatia",
+    "country_flag":"croatia_flag",
+    "telephone_code":"385"
+  },
+  {
+    "actual_country_name":"Republik Indonesia",
+    "english_country_name":"Indonesia",
+    "country_flag":"indo_flag",
+    "telephone_code":"62"
+  },
+  {
+    "actual_country_name":"Éire",
+    "english_country_name":"Ireland",
+    "country_flag":"ireland_flag",
+    "telephone_code":"353"
+  },
+  {
+    "actual_country_name":"Ísland",
+    "english_country_name":"Iceland",
+    "country_flag":"iceland_flag",
+    "telephone_code":"354"
+  },
+  {
+    "actual_country_name":"Mannin, Ellan Vannin",
+    "english_country_name":"Isle of Man",
+    "country_flag":"isle_flag",
+    "telephone_code":"44"
+  },
+  {
+    "actual_country_name":"Repubblica Italiana",
+    "english_country_name":"Italy",
+    "country_flag":"italy_flag",
+    "telephone_code":"39"
+  },
+  {
+    "actual_country_name":"Jamaica",
+    "english_country_name":"",
+    "country_flag":"jamaica_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Bailliage de Jersey",
+    "english_country_name":"Jersey",
+    "country_flag":"jersey_flag",
+    "telephone_code":"44"
+  },
+  {
+    "actual_country_name":"Grønland",
+    "english_country_name":"Greenland",
+    "country_flag":"greenland_flag",
+    "telephone_code":"299"
+  },
+  {
+    "actual_country_name":"Республика Казахстан",
+    "english_country_name":"Kazakhstan",
+    "country_flag":"kazak_flag",
+    "telephone_code":"7"
+  },
+  {
+    "actual_country_name":"Jamhuri ya Kenya",
+    "english_country_name":"Kenya",
+    "country_flag":"kenya_flag",
+    "telephone_code":"254"
+  },
+  {
+    "actual_country_name":"Wilayah Kepulauan Cocos",
+    "english_country_name":"Cocos (Keeling) Islands",
+    "country_flag":"cocos_flag",
+    "telephone_code":"61"
+  },
+  {
+    "actual_country_name":"Ribaberiki Kiribati",
+    "english_country_name":"Kiribati",
+    "country_flag":"kiri_flag",
+    "telephone_code":"686"
+  },
+  {
+    "actual_country_name":"Република Косово",
+    "english_country_name":"Kosovo",
+    "country_flag":"kosovo_flag",
+    "telephone_code":"383"
+  },
+  {
+    "actual_country_name":"La Réunion",
+    "english_country_name":"Réunion",
+    "country_flag":"reunion_flag",
+    "telephone_code":"262"
+  },
+  {
+    "actual_country_name":"Latvijas Republika",
+    "english_country_name":"Latvia",
+    "country_flag":"latvia_flag",
+    "telephone_code":"371"
+  },
+  {
+    "actual_country_name":"Muso oa Lesotho",
+    "english_country_name":"Lesotho",
+    "country_flag":"lesotho_flag",
+    "telephone_code":"266"
+  },
+  {
+    "actual_country_name":"Großherzogtum Luxemburg",
+    "english_country_name":"Luxembourg",
+    "country_flag":"luxem_flag",
+    "telephone_code":"352"
+  },
+  {
+    "actual_country_name":"Liberia",
+    "english_country_name":"",
+    "country_flag":"liberia_flag",
+    "telephone_code":"231"
+  },
+  {
+    "actual_country_name":"Fürstentum Liechtenstein",
+    "english_country_name":"Liechtenstein",
+    "country_flag":"lie_flag",
+    "telephone_code":"423"
+  },
+  {
+    "actual_country_name":"Lietuvos Respublika",
+    "english_country_name":"Lithuania",
+    "country_flag":"lith_flag",
+    "telephone_code":"370"
+  },
+  {
+    "actual_country_name":"Repoblikan'i Madagasikara",
+    "english_country_name":"Madagascar",
+    "country_flag":"mada_flag",
+    "telephone_code":"261"
+  },
+  {
+    "actual_country_name":"Magyarország",
+    "english_country_name":"Hungary",
+    "country_flag":"hungary_flag",
+    "telephone_code":"36"
+  },
+  {
+    "actual_country_name":"Malawi",
+    "english_country_name":"Dziko la Malaŵi",
+    "country_flag":"malawi_flag",
+    "telephone_code":"265"
+  },
+  {
+    "actual_country_name":"مليسيا",
+    "english_country_name":"Malaysia",
+    "country_flag":"malaysia_flag",
+    "telephone_code":"60"
+  },
+  {
+    "actual_country_name":"ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
+    "english_country_name":"Maldives",
+    "country_flag":"maldives_flag",
+    "telephone_code":"960"
+  },
+  {
+    "actual_country_name":"Mali ka Fasojamana",
+    "english_country_name":"Mali",
+    "country_flag":"mali_flag",
+    "telephone_code":"223"
+  },
+  {
+    "actual_country_name":"Repubblika ta' Malta",
+    "english_country_name":"Malta",
+    "country_flag":"malta_flag",
+    "telephone_code":"356"
+  },
+  {
+    "actual_country_name":"Aolepān Aorōkin M̧ajeļ",
+    "english_country_name":"Marshall Islands",
+    "country_flag":"marshall_flag",
+    "telephone_code":"692"
+  },
+  {
+    "actual_country_name":"Martinique",
+    "english_country_name":"",
+    "country_flag":"martini_flag",
+    "telephone_code":"596"
+  },
+  {
+    "actual_country_name":"République de Maurice",
+    "english_country_name":"Mauritius",
+    "country_flag":"mauritius_flag",
+    "telephone_code":"230"
+  },
+  {
+    "actual_country_name":"Département de Mayotte",
+    "english_country_name":"Mayotte",
+    "country_flag":"mayotte_flag",
+    "telephone_code":"262"
+  },
+  {
+    "actual_country_name":"Estados Unidos Mexicanos",
+    "english_country_name":"Mexico",
+    "country_flag":"mexico_flag",
+    "telephone_code":"52"
+  },
+  {
+    "actual_country_name":"Micronesia",
+    "english_country_name":"",
+    "country_flag":"micro_flag",
+    "telephone_code":"691"
+  },
+  {
+    "actual_country_name":"República de Moçambique",
+    "english_country_name":"Mozambique",
+    "country_flag":"mozam_flag",
+    "telephone_code":"258"
+  },
+  {
+    "actual_country_name":"Principauté de Monaco",
+    "english_country_name":"Monaco",
+    "country_flag":"monaco_flag",
+    "telephone_code":"377"
+  },
+  {
+    "actual_country_name":"Montserrat",
+    "english_country_name":"",
+    "country_flag":"monster_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Republiek van Namibië",
+    "english_country_name":"Namibia",
+    "country_flag":"namibia_flag",
+    "telephone_code":"264"
+  },
+  {
+    "actual_country_name":"Repubrikin Naoero",
+    "english_country_name":"Nauru",
+    "country_flag":"nauru_flag",
+    "telephone_code":"674"
+  },
+  {
+    "actual_country_name":"Nederland",
+    "english_country_name":"Netherlands",
+    "country_flag":"netherland_flag",
+    "telephone_code":"31"
+  },
+  {
+    "actual_country_name":"Aotearoa",
+    "english_country_name":"New Zealand",
+    "country_flag":"new_zealand_flag",
+    "telephone_code":"64"
+  },
+  {
+    "actual_country_name":"República de Nicaragua",
+    "english_country_name":"Nicaragua",
+    "country_flag":"nic_flag",
+    "telephone_code":"505"
+  },
+  {
+    "actual_country_name":"République du Niger",
+    "english_country_name":"Niger",
+    "country_flag":"niger_flag",
+    "telephone_code":"227"
+  },
+  {
+    "actual_country_name":"Jamhuriyar Taraiyar Nijeriya",
+    "english_country_name":"Nigeria",
+    "country_flag":"nigeria_flag",
+    "telephone_code":"234"
+  },
+  {
+    "actual_country_name":"Niue",
+    "english_country_name":"",
+    "country_flag":"niue_flag",
+    "telephone_code":"683"
+  },
+  {
+    "actual_country_name":"Teratri a' Norf'k Ailen",
+    "english_country_name":"Norfolk Island",
+    "country_flag":"norfolk_flag",
+    "telephone_code":"672"
+  },
+  {
+    "actual_country_name":"Kongeriket Norge",
+    "english_country_name":"Norway",
+    "country_flag":"norway_flag",
+    "telephone_code":"47"
+  },
+  {
+    "actual_country_name":"Sankattan Siha Na Islas Mariånas",
+    "english_country_name":"Northern Mariana Islands",
+    "country_flag":"mariana_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Nouvelle-Calédonie",
+    "english_country_name":"New Caledonia",
+    "country_flag":"cale_flag",
+    "telephone_code":"687"
+  },
+  {
+    "actual_country_name":"Oʻzbekiston Respublikasi",
+    "english_country_name":"Uzbekistan",
+    "country_flag":"uzbek_flag",
+    "telephone_code":"998"
+  },
+  {
+    "actual_country_name":"Republik Österreich",
+    "english_country_name":"Austria",
+    "country_flag":"austria_flag",
+    "telephone_code":"43"
+  },
+  {
+    "actual_country_name":"Beluu er a Belau",
+    "english_country_name":"Palau",
+    "country_flag":"palau_flag",
+    "telephone_code":"680"
+  },
+  {
+    "actual_country_name":"República de Panamá",
+    "english_country_name":"Panama",
+    "country_flag":"panama_flag",
+    "telephone_code":"507"
+  },
+  {
+    "actual_country_name":"Papua Niu Gini",
+    "english_country_name":"Papua New Guinea",
+    "country_flag":"papua_guinea_flag",
+    "telephone_code":"675"
+  },
+  {
+    "actual_country_name":"Tetã Paraguái",
+    "english_country_name":"Paraguay",
+    "country_flag":"para_flag",
+    "telephone_code":"595"
+  },
+  {
+    "actual_country_name":"República del Perú",
+    "english_country_name":"Peru",
+    "country_flag":"peru_flag",
+    "telephone_code":"51"
+  },
+  {
+    "actual_country_name":"Republika ng Pilipinas",
+    "english_country_name":"Philippines",
+    "country_flag":"phili_flag",
+    "telephone_code":"63"
+  },
+  {
+    "actual_country_name":"Rzeczpospolita Polska",
+    "english_country_name":"Poland",
+    "country_flag":"poland_flag",
+    "telephone_code":"48"
+  },
+  {
+    "actual_country_name":"Polynésie française",
+    "english_country_name":"French Polynesia",
+    "country_flag":"french_poly_flag",
+    "telephone_code":"689"
+  },
+  {
+    "actual_country_name":"República Portuguesa",
+    "english_country_name":"Portugal",
+    "country_flag":"portugal_flag",
+    "telephone_code":"351"
+  },
+  {
+    "actual_country_name":"Estado Libre Asociado de Puerto Rico",
+    "english_country_name":"Puerto Rico",
+    "country_flag":"rico_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"República Dominicana",
+    "english_country_name":"Dominican Republic",
+    "country_flag":"domnician_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Republica Moldova",
+    "english_country_name":"Moldova",
+    "country_flag":"moldova_flag",
+    "telephone_code":"373"
+  },
+  {
+    "actual_country_name":"Ködörösêse tî Bêafrîka",
+    "english_country_name":"Central African Republic",
+    "country_flag":"african_flag",
+    "telephone_code":"236"
+  },
+  {
+    "actual_country_name":"România",
+    "english_country_name":"Romania",
+    "country_flag":"romania_flag",
+    "telephone_code":"40"
+  },
+  {
+    "actual_country_name":"Collectivité de Saint-Barthélemy",
+    "english_country_name":"Saint-Barthélemy",
+    "country_flag":"saintb_flag",
+    "telephone_code":"590"
+  },
+  {
+    "actual_country_name":"Saint-Martin",
+    "english_country_name":"Saint Martin",
+    "country_flag":"saintm_flag",
+    "telephone_code":"590"
+  },
+  {
+    "actual_country_name":"Collectivité d'Outre-mer de Saint-Pierre-et-Miquelon",
+    "english_country_name":"Saint Pierre and Miquelon",
+    "country_flag":"saintp_flag",
+    "telephone_code":"508"
+  },
+  {
+    "actual_country_name":"Malo Saʻoloto Tutoʻatasi o Sāmoa",
+    "english_country_name":"Samoa",
+    "country_flag":"samoa_flag",
+    "telephone_code":"685"
+  },
+  {
+    "actual_country_name":"Repubblica di San Marino",
+    "english_country_name":"San Marino",
+    "country_flag":"marino_flag",
+    "telephone_code":"378"
+  },
+  {
+    "actual_country_name":"São Tomé e Príncipe",
+    "english_country_name":"Sao Tome and Principe",
+    "country_flag":"sao_flag",
+    "telephone_code":"239"
+  },
+  {
+    "actual_country_name":"Schweizerische Eidgenossenschaft",
+    "english_country_name":"Switzerland",
+    "country_flag":"switzerland_flag",
+    "telephone_code":"41"
+  },
+  {
+    "actual_country_name":"République du Sénégal",
+    "english_country_name":"Senegal",
+    "country_flag":"senegal_flag",
+    "telephone_code":"221"
+  },
+  {
+    "actual_country_name":"République des Seychelles",
+    "english_country_name":"Seychelles",
+    "country_flag":"sey_flag",
+    "telephone_code":"248"
+  },
+  {
+    "actual_country_name":"Republika e Shqipërisë",
+    "english_country_name":"Albania",
+    "country_flag":"albania_flag",
+    "telephone_code":"355"
+  },
+  {
+    "actual_country_name":"Sierra Leone",
+    "english_country_name":"",
+    "country_flag":"sierra_flag",
+    "telephone_code":"232"
+  },
+  {
+    "actual_country_name":"Republik Singapura",
+    "english_country_name":"Singapore",
+    "country_flag":"singapore_flag",
+    "telephone_code":"65"
+  },
+  {
+    "actual_country_name":"Sint Maarten",
+    "english_country_name":"",
+    "country_flag":"sint_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Republika Slovenija",
+    "english_country_name":"Slovenia",
+    "country_flag":"slovenia_flag",
+    "telephone_code":"386"
+  },
+  {
+    "actual_country_name":"Slovenská republika",
+    "english_country_name":"Slovakia",
+    "country_flag":"slovakia_flag",
+    "telephone_code":"421"
+  },
+  {
+    "actual_country_name":"Solomon Islands",
+    "english_country_name":"",
+    "country_flag":"solomon_flag",
+    "telephone_code":"677"
+  },
+  {
+    "actual_country_name":"Jamhuuriyadda Federaalka Soomaaliya",
+    "english_country_name":"Somalia",
+    "country_flag":"somalia_flag",
+    "telephone_code":"252"
+  },
+  {
+    "actual_country_name":"جنوب جمهورية جنوب السودان",
+    "english_country_name":"South Sudan",
+    "country_flag":"sudan_flag",
+    "telephone_code":"211"
+  },
+  {
+    "actual_country_name":"Saint Helena",
+    "english_country_name":"",
+    "country_flag":"sainth_flag",
+    "telephone_code":"290"
+  },
+  {
+    "actual_country_name":"Saint Kitts and Nevis",
+    "english_country_name":"",
+    "country_flag":"saintkn_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Saint Lucia",
+    "english_country_name":"",
+    "country_flag":"saintl_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Saint Vincent and the Grenadines",
+    "english_country_name":"",
+    "country_flag":"saintvg_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Suomen tasavalta",
+    "english_country_name":"Finland",
+    "country_flag":"finland_flag",
+    "telephone_code":"358"
+  },
+  {
+    "actual_country_name":"Republiek Suriname",
+    "english_country_name":"Suriname",
+    "country_flag":"suriname_flag",
+    "telephone_code":"597"
+  },
+  {
+    "actual_country_name":"Konungariket Sverige",
+    "english_country_name":"Sweden",
+    "country_flag":"sweden_flag",
+    "telephone_code":"46"
+  },
+  {
+    "actual_country_name":"Umbuso weSwatini",
+    "english_country_name":"Eswatini",
+    "country_flag":"eswa_flag",
+    "telephone_code":"268"
+  },
+  {
+    "actual_country_name":"Jamhuri ya Muungano wa Tanzania",
+    "english_country_name":"Tanzania",
+    "country_flag":"tanzania_flag",
+    "telephone_code":"255"
+  },
+  {
+    "actual_country_name":"جمهورية تشاد",
+    "english_country_name":"Chad",
+    "country_flag":"chad_flag",
+    "telephone_code":"235"
+  },
+  {
+    "actual_country_name":"Repúblika Demokrátika Timor Lorosa'e",
+    "english_country_name":"Timor-Leste",
+    "country_flag":"timor_flag",
+    "telephone_code":"670"
+  },
+  {
+    "actual_country_name":"République togolaise",
+    "english_country_name":"Togo",
+    "country_flag":"togo_flag",
+    "telephone_code":"228"
+  },
+  {
+    "actual_country_name":"Tokelau",
+    "english_country_name":"",
+    "country_flag":"tokelau_flag",
+    "telephone_code":"690"
+  },
+  {
+    "actual_country_name":"Puleʻanga Fakatuʻi ʻo Tonga",
+    "english_country_name":"Tonga",
+    "country_flag":"tonga_flag",
+    "telephone_code":"676"
+  },
+  {
+    "actual_country_name":"Trinidad and Tobago",
+    "english_country_name":"",
+    "country_flag":"tt_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Türkiye Cumhuriyeti",
+    "english_country_name":"Turkey",
+    "country_flag":"turkey_flag",
+    "telephone_code":"90"
+  },
+  {
+    "actual_country_name":"Türkmenistan",
+    "english_country_name":"Turkmenistan",
+    "country_flag":"turkmen_flag",
+    "telephone_code":"993"
+  },
+  {
+    "actual_country_name":"Turks and Caicos Islands",
+    "english_country_name":"",
+    "country_flag":"tcisland_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Tuvalu",
+    "english_country_name":"",
+    "country_flag":"tuvalu_flag",
+    "telephone_code":"688"
+  },
+  {
+    "actual_country_name":"Repubulika y'u Rwanda",
+    "english_country_name":"Rwanda",
+    "country_flag":"rwanda_flag",
+    "telephone_code":"250"
+  },
+  {
+    "actual_country_name":"United States Virgin Islands",
+    "english_country_name":"",
+    "country_flag":"usvirgin_flag",
+    "telephone_code":"1"
+  },
+  {
+    "actual_country_name":"Jamhuri ya Uganda",
+    "english_country_name":"Uganda",
+    "country_flag":"uganda_flag",
+    "telephone_code":"256"
+  },
+  {
+    "actual_country_name":"República Oriental del Uruguay",
+    "english_country_name":"Uruguay",
+    "country_flag":"uruguay_flag",
+    "telephone_code":"598"
+  },
+  {
+    "actual_country_name":"Ripablik blong Vanuatu",
+    "english_country_name":"Vanuatu",
+    "country_flag":"vanuatu_flag",
+    "telephone_code":"678"
+  },
+  {
+    "actual_country_name":"República Bolivariana de Venezuela",
+    "english_country_name":"Venezuela",
+    "country_flag":"venezuela_flag",
+    "telephone_code":"58"
+  },
+  {
+    "actual_country_name":"Cộng hòa xã hội chủ nghĩa Việt Nam",
+    "english_country_name":"Vietnam",
+    "country_flag":"vietnam_flag",
+    "telephone_code":"84"
+  },
+  {
+    "actual_country_name":"Territoire des îles Wallis-et-Futuna",
+    "english_country_name":"Wallis and Futuna Islands",
+    "country_flag":"wf_flag",
+    "telephone_code":"681"
+  },
+  {
+    "actual_country_name":"Zambia",
+    "english_country_name":"",
+    "country_flag":"zambia_flag",
+    "telephone_code":"260"
+  },
+  {
+    "actual_country_name":"Zimbabwe",
+    "english_country_name":"",
+    "country_flag":"zim_flag",
+    "telephone_code":"263"
+  },
+  {
+    "actual_country_name":"Ελληνική Δημοκρατία",
+    "english_country_name":"Greece",
+    "country_flag":"greece_flag",
+    "telephone_code":"30"
+  },
+  {
+    "actual_country_name":"Κυπριακή Δημοκρατία",
+    "english_country_name":"Cyprus",
+    "country_flag":"cyprus_flag",
+    "telephone_code":"357"
+  },
+  {
+    "actual_country_name":"Рэспубліка Беларусь",
+    "english_country_name":"Belarus",
+    "country_flag":"belarus_flag",
+    "telephone_code":"375"
+  },
+  {
+    "actual_country_name":"Република България",
+    "english_country_name":"Bulgaria",
+    "country_flag":"bulgaria_flag",
+    "telephone_code":"359"
+  },
+  {
+    "actual_country_name":"Кыргыз Республикасы",
+    "english_country_name":"Kyrgyzstan",
+    "country_flag":"kyrg_flag",
+    "telephone_code":"996"
+  },
+  {
+    "actual_country_name":"Република Македонија",
+    "english_country_name":"Macedonia",
+    "country_flag":"macedonia_flag",
+    "telephone_code":"389"
+  },
+  {
+    "actual_country_name":"Монгол Улс",
+    "english_country_name":"Mongolia",
+    "country_flag":"mongolia_flag",
+    "telephone_code":"976"
+  },
+  {
+    "actual_country_name":"Росси́йская Федера́ция",
+    "english_country_name":"Russia",
+    "country_flag":"russia_flag",
+    "telephone_code":"7"
+  },
+  {
+    "actual_country_name":"Република Србија",
+    "english_country_name":"Serbia",
+    "country_flag":"serbia_flag",
+    "telephone_code":"381"
+  },
+  {
+    "actual_country_name":"Ҷумҳурии Тоҷикистон",
+    "english_country_name":"Tajikistan",
+    "country_flag":"taji_flag",
+    "telephone_code":"992"
+  },
+  {
+    "actual_country_name":"Україна",
+    "english_country_name":"Ukraine",
+    "country_flag":"ukraine_flag",
+    "telephone_code":"380"
+  },
+  {
+    "actual_country_name":"Црна Гора",
+    "english_country_name":"Montenegro",
+    "country_flag":"monte_flag",
+    "telephone_code":"382"
+  },
+  {
+    "actual_country_name":"Svalbard and Jan Mayen",
+    "english_country_name":"",
+    "country_flag":"sjm_flag",
+    "telephone_code":"47"
+  },
+  {
+    "actual_country_name":"საქართველო",
+    "english_country_name":"Georgia",
+    "country_flag":"georgia_flag",
+    "telephone_code":"995"
+  },
+  {
+    "actual_country_name":"Հայաստանի Հանրապետություն",
+    "english_country_name":"Armenia",
+    "country_flag":"armenia_flag",
+    "telephone_code":"374"
+  },
+  {
+    "actual_country_name":"",
+    "english_country_name":"Israel",
+    "country_flag":"israel_flag",
+    "telephone_code":"972"
+  },
+  {
+    "actual_country_name":"الأراضي الفلسطينية",
+    "english_country_name":"Palestinian territories",
+    "country_flag":"pale_flag",
+    "telephone_code":"970"
+  },
+  {
+    "actual_country_name":"المملكة الأردنية الهاشمية",
+    "english_country_name":"Jordan",
+    "country_flag":"jordan_flag",
+    "telephone_code":"962"
+  },
+  {
+    "actual_country_name":"Eritrea",
+    "english_country_name":"",
+    "country_flag":"eritrea_flag",
+    "telephone_code":"291"
+  },
+  {
+    "actual_country_name":"دولة الإمارات العربية المتحدة",
+    "english_country_name":"United Arab Emirates",
+    "country_flag":"uae_flag",
+    "telephone_code":"971"
+  },
+  {
+    "actual_country_name":"جمهوری اسلامی افغانستان‬",
+    "english_country_name":"Afghanistan",
+    "country_flag":"afgh_flag",
+    "telephone_code":"93"
+  },
+  {
+    "actual_country_name":"جمهوری اسلامی ایران",
+    "english_country_name":"Iran",
+    "country_flag":"iran_flag",
+    "telephone_code":"98"
+  },
+  {
+    "actual_country_name":"مملكة البحرين",
+    "english_country_name":"Bahrain",
+    "country_flag":"bahrain_flag",
+    "telephone_code":"973"
+  },
+  {
+    "actual_country_name":"الجمهورية التونسية",
+    "english_country_name":"Tunisia",
+    "country_flag":"tunisia_flag",
+    "telephone_code":"216"
+  },
+  {
+    "actual_country_name":"الجمهورية الجزائرية الديمقراطية الشعبية",
+    "english_country_name":"Algeria",
+    "country_flag":"algeria_flag",
+    "telephone_code":"213"
+  },
+  {
+    "actual_country_name":"الاتحاد القمري",
+    "english_country_name":"Comoros",
+    "country_flag":"comoros_flag",
+    "telephone_code":"269"
+  },
+  {
+    "actual_country_name":"جمهورية السودان",
+    "english_country_name":"Sudan",
+    "country_flag":"sudans_flag",
+    "telephone_code":"249"
+  },
+  {
+    "actual_country_name":"الجمهورية العربية السورية",
+    "english_country_name":"Syria",
+    "country_flag":"syria_flag",
+    "telephone_code":"963"
+  },
+  {
+    "actual_country_name":"جمهورية العراق",
+    "english_country_name":"Iraq",
+    "country_flag":"iraq_flag",
+    "telephone_code":"964"
+  },
+  {
+    "actual_country_name":"سلطنة عُمان",
+    "english_country_name":"Oman",
+    "country_flag":"oman_flag",
+    "telephone_code":"968"
+  },
+  {
+    "actual_country_name":"دولة قطر",
+    "english_country_name":"Qatar",
+    "country_flag":"qatar_flag",
+    "telephone_code":"974"
+  },
+  {
+    "actual_country_name":"دولة الكويت",
+    "english_country_name":"Kuwait",
+    "country_flag":"kuwait_flag",
+    "telephone_code":"965"
+  },
+  {
+    "actual_country_name":"الجمهورية اللبنانية",
+    "english_country_name":"Lebanon",
+    "country_flag":"lebanon_flag",
+    "telephone_code":"961"
+  },
+  {
+    "actual_country_name":"دولة ليبيا",
+    "english_country_name":"Libya",
+    "country_flag":"libya_flag",
+    "telephone_code":"218"
+  },
+  {
+    "actual_country_name":"جمهورية مصر العربية",
+    "english_country_name":"Egypt",
+    "country_flag":"egypt_flag",
+    "telephone_code":"20"
+  },
+    {
+    "actual_country_name":"المملكة المغربية",
+    "english_country_name":"Morocco",
+    "country_flag":"morocco_flag",
+    "telephone_code":"212"
+  },
+    {
+    "actual_country_name":"المملكة العربية السعودية",
+    "english_country_name":"Saudi Arabia",
+    "country_flag":"saudi_flag",
+    "telephone_code":"966"
+  },
+    {
+    "actual_country_name":"الجمهورية الإسلامية الموريتانية",
+    "english_country_name":"Mauritania",
+    "country_flag":"mauritania_flag",
+    "telephone_code":"222"
+  },
+    {
+    "actual_country_name":"الجمهورية اليمنية",
+    "english_country_name":"Yemen",
+    "country_flag":"yemen_flag",
+    "telephone_code":"967"
+  },
+    {
+    "actual_country_name":"የኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ",
+    "english_country_name":"Ethiopia",
+    "country_flag":"eth_flag",
+    "telephone_code":"251"
+  },
+    {
+    "actual_country_name":"सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल ",
+    "english_country_name":"Nepal",
+    "country_flag":"nepal_flag",
+    "telephone_code":"977"
+  },
+    {
+    "actual_country_name":"গণপ্রজাতন্ত্রী বাংলাদেশ",
+    "english_country_name":"Bangladesh",
+    "country_flag":"bangladesh_flag",
+    "telephone_code":"880"
+  },
+    {
+    "actual_country_name":"ශ්රී ලංකා පරජාතාන්ත්රික සමාජවාදී ජනරජය",
+    "english_country_name":"Sri Lanka",
+    "country_flag":"sri_lanka_flag",
+    "telephone_code":"94"
+  },
+    {
+    "actual_country_name":"ราชอาณาจักรไทย",
+    "english_country_name":"Thailand",
+    "country_flag":"thailand_flag",
+    "telephone_code":"66"
+  },
+    {
+    "actual_country_name":"ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ",
+    "english_country_name":"Laos",
+    "country_flag":"laos_flag",
+    "telephone_code":"856"
+  },
+    {
+    "actual_country_name":"འབྲུག་རྒྱལ་ཁབ་",
+    "english_country_name":"Bhutan",
+    "country_flag":"bhutan_flag",
+    "telephone_code":"975"
+  },
+    {
+    "actual_country_name":"ပြည်ထောင်စုသမ္မတ မြန်မာနိုင်ငံတော်",
+    "english_country_name":"Myanmar",
+    "country_flag":"myanmar_flag",
+    "telephone_code":"95"
+  },
+  {
+    "actual_country_name":"ព្រះរាជាណាចក្រកម្ពុជា",
+    "english_country_name":"Cambodia",
+    "country_flag":"cambodia_flag",
+    "telephone_code":"855"
+  },
+  {
+    "actual_country_name":"대한민국",
+    "english_country_name":"South Korea",
+    "country_flag":"koreas_flag",
+    "telephone_code":"82"
+  },
+  {
+    "actual_country_name":"조선민주주의인민공화국",
+    "english_country_name":"North Korea",
+    "country_flag":"korean_flag",
+    "telephone_code":"850"
+  },
+  {
+    "actual_country_name":"中华人民共和国",
+    "english_country_name":"China",
+    "country_flag":"china_flag",
+    "telephone_code":"86"
+  },
+  {
+    "actual_country_name":"中華人民共和國澳門特別行政區",
+    "english_country_name":"Macau",
+    "country_flag":"macau_flag",
+    "telephone_code":"853"
+  },
+  {
+    "actual_country_name":"中華人民共和國香港特別行政區",
+    "english_country_name":"Hong Kong",
+    "country_flag":"hong_kong_flag",
+    "telephone_code":"852"
+  },
+  {
+    "actual_country_name":"中華民國",
+    "english_country_name":"Taiwan",
+    "country_flag":"taiwan_flag",
+    "telephone_code":"886"
+  },
+  {
+    "actual_country_name":"日本",
+    "english_country_name":"Japan",
+    "country_flag":"japan_flag",
+    "telephone_code":"81"
+  }
+]

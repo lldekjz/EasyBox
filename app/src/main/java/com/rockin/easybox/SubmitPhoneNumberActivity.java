@@ -49,16 +49,15 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
 
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-                if(position < CountriesAndTelephoneCodes.telephone_codes.length) {
-                    telephone_code.setText(CountriesAndTelephoneCodes.telephone_codes[position]);
-                }
+                telephone_code.setText(telephone_code_array.get(position).getTelephone_code());
+                telephone_code.setSelection(telephone_code.getText().length());
             }
 
             @Override
             public void onNothingSelected(AdapterView<?> parent) { }
         });
 
-        /*TextWatcher telephone_code_text_watcher = new TextWatcher() {
+        TextWatcher telephone_code_text_watcher = new TextWatcher() {
 
             @Override
             public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) { }
@@ -70,19 +69,25 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
             public void afterTextChanged(Editable editable) {
 
                 int countries_spinner_position;
-                countries_spinner_position = CountriesAndTelephoneCodes.find_telephone_code_index(
-                        telephone_code.getText().toString().trim()
-                );
+                countries_spinner_position = find_spinner_item_position(
+                        telephone_code.getText().toString().trim());
+                if(countries_spinner_position == -1){
+                    countries_spinner_position = telephone_code_array.size() - 1;
+                }
 
-                if(countries_spinner_position == -1)
-                    countries_spinner_position = CountriesAndTelephoneCodes.countries.length - 1;
                 countries_spinner.setSelection(countries_spinner_position);
-
                 telephone_code.setSelection(telephone_code.getText().length());
             }
         };
 
-        telephone_code.addTextChangedListener(telephone_code_text_watcher);*/
+        telephone_code.addTextChangedListener(telephone_code_text_watcher);
+
+        telephone_code.setOnFocusChangeListener(new View.OnFocusChangeListener() {
+            @Override
+            public void onFocusChange(View v, boolean hasFocus) {
+                Toast.makeText(SubmitPhoneNumberActivity.this, "ggg", Toast.LENGTH_LONG).show();
+            }
+        });
 
     }
 
@@ -117,6 +122,8 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
 
     public class TelephoneCodeSpinnerAdapter extends ArrayAdapter<TelephoneCodeSpinnerItem>{
 
+        private View convertView_1 = null, convertView_2 = null;
+
         public TelephoneCodeSpinnerAdapter(Context context, ArrayList<TelephoneCodeSpinnerItem> telephone_code_list) {
             super(context, 0, telephone_code_list);
         }
@@ -124,6 +131,7 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
         @NonNull
         @Override
         public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
+
             if(convertView == null) {
                 convertView = LayoutInflater.from(getContext()).inflate(
                         R.layout.telephone_code_spinner_item_off, parent, false
@@ -152,7 +160,7 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
             TelephoneCodeSpinnerItem telephoneCodeSpinnerItem = getItem(position);
             String telephone_code_spinner_log_tag = "TCSLT";
 
-            if(convertView == null && telephoneCodeSpinnerItem != null) {
+            if(telephoneCodeSpinnerItem != null) {
                 if(telephoneCodeSpinnerItem.getEnglish_country_name().isEmpty()){
                     convertView = LayoutInflater.from(getContext()).inflate(
                             R.layout.telephone_code_spinner_item_on_2, parent, false
@@ -166,7 +174,6 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
             }
 
             try {
-
                 ((TextView) convertView.findViewById(R.id.actual_country_name)).setText(
                         telephoneCodeSpinnerItem.getActual_country_name()
                 );
@@ -182,6 +189,7 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
                 );
                 String telePhone_code_temp = "+"+telephoneCodeSpinnerItem.getTelephone_code();
                 ((TextView) convertView.findViewById(R.id.telephone_code)).setText(telePhone_code_temp);
+
             }catch (NullPointerException npe){
                 Log.e(telephone_code_spinner_log_tag, "NullPointer in spinner item");
             }
@@ -236,12 +244,24 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
                 telephone_code_array.add(telephoneCodeSpinnerItem);
 
             }
+
         } catch (IOException e1) {
             Log.e(telephone_code_json_file_log_tag, "telephone_code_json_file could not open", e1);
         } catch (JSONException e2) {
             Log.e(telephone_code_json_file_log_tag, "JSONArray got the error");
         }
     }
+
+    private int find_spinner_item_position(String number){
+
+        for(int i = 0; i < telephone_code_array.size(); i++) {
+            if(telephone_code_array.get(i).getTelephone_code().equals(number)){
+                return i;
+            }
+        }
+        return -1;
+    }
+
 }
 
 
