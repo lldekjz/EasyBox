@@ -4,12 +4,12 @@
         "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\tonga_flag.png"
     },
     {
-        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_serbia_flag.png.flat",
-        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\serbia_flag.png"
-    },
-    {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_verde_flag.png.flat",
         "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\verde_flag.png"
+    },
+    {
+        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_serbia_flag.png.flat",
+        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\serbia_flag.png"
     },
     {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_list_divider_material.xml.flat",
@@ -24,12 +24,12 @@
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo_round.xml.flat",
-        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_round.xml"
-    },
-    {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo_round.xml.flat",
+        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_round.xml"
     },
     {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -48,16 +48,16 @@
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guineabiss_flag.png.flat",
+        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\guineabiss_flag.png"
     },
     {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guineabiss_flag.png.flat",
-        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\guineabiss_flag.png"
+        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -72,16 +72,20 @@
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\abec3398eb41348f635b8dafc7d2624f\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_round.png.flat",
+        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_round.png"
     },
     {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_myanmar_flag.png.flat",
         "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\myanmar_flag.png"
     },
     {
-        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_round.png.flat",
-        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_round.png"
+        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_el_salvador_flag.png.flat",
+        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\el_salvador_flag.png"
     },
     {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_algeria_flag.png.flat",
@@ -108,12 +112,12 @@
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jersey_flag.png.flat",
-        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\jersey_flag.png"
-    },
-    {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\abec3398eb41348f635b8dafc7d2624f\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jersey_flag.png.flat",
+        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\jersey_flag.png"
     },
     {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
@@ -140,32 +144,32 @@
         "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\colombia_flag.png"
     },
     {
-        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brunei_flag.png.flat",
+        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\brunei_flag.png"
     },
     {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_monaco_flag.png.flat",
         "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\monaco_flag.png"
     },
     {
-        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brunei_flag.png.flat",
-        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\brunei_flag.png"
+        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -192,12 +196,12 @@
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spain_flag.png.flat",
-        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\spain_flag.png"
-    },
-    {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spain_flag.png.flat",
+        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\spain_flag.png"
     },
     {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -244,12 +248,12 @@
         "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\caribbean_flag.png"
     },
     {
-        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
-        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\rocks\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b406f4db12c2589c6038f420da5fbeec\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -282,6 +286,10 @@
     {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slovakia_flag.png.flat",
         "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\slovakia_flag.png"
+    },
+    {
+        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dominican_republic_flag.png.flat",
+        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\dominican_republic_flag.png"
     },
     {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -1420,10 +1428,6 @@
         "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\romania_flag.png"
     },
     {
-        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dominican_republic_flag.jpg.flat",
-        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\dominican_republic_flag.jpg"
-    },
-    {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poland_flag.png.flat",
         "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\poland_flag.png"
     },
@@ -1774,10 +1778,6 @@
     {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_andorra_flag.png.flat",
         "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\andorra_flag.png"
-    },
-    {
-        "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable_el_salvador_flag.jpg.flat",
-        "source": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\src\\main\\res\\drawable\\el_salvador_flag.jpg"
     },
     {
         "merged": "C:\\Users\\rocks\\AndroidStudioProjects\\EasyBox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
