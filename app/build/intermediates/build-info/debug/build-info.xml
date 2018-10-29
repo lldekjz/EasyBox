@@ -6,7 +6,7 @@
     density="hdpi"
     format="10"
     plugin-version="3.2.1"
-    timestamp="1540754950713"
+    timestamp="1540816219170"
     token="-8713597239063921501"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -29,8 +29,14 @@
 
     <build
         build-mode="FULL"
-        timestamp="1540742236745"
+        timestamp="1540795931556"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
         <artifact
             location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
@@ -38,28 +44,22 @@
             location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
             location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
@@ -71,39 +71,18 @@
     <build
         build-mode="COLD"
         ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1540745559845"
+        timestamp="1540796263595"
         verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
         <artifact
             location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1540749476417"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1540754950713"
+        timestamp="1540816219170"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\rocks\AndroidStudioProjects\EasyBox\app\build\intermediates\instant-run-apk\debug\app-debug.apk"

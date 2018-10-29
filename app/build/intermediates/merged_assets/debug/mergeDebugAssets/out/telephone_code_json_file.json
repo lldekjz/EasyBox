@@ -326,7 +326,7 @@
   {
     "actual_country_name":"República de El Salvador",
     "english_country_name":"El Salvador",
-    "country_flag":"sal_flag",
+    "country_flag":"el_salvador_flag",
     "telephone_code":"503"
   },
   {
@@ -824,7 +824,7 @@
   {
     "actual_country_name":"República Dominicana",
     "english_country_name":"Dominican Republic",
-    "country_flag":"domnician_flag",
+    "country_flag":"dominican_republic_flag",
     "telephone_code":"1"
   },
   {

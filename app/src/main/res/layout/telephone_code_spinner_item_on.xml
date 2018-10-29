@@ -11,6 +11,7 @@
         android:paddingEnd="1dp"
         android:layout_width="55dp"
         android:layout_height="35dp"
+        android:layout_gravity="center"
         android:contentDescription="@string/country_flag_text" />
 
     <LinearLayout

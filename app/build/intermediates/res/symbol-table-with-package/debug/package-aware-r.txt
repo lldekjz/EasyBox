@@ -694,9 +694,10 @@ drawable czech_flag
 drawable denmark_flag
 drawable dj_flag
 drawable dom_flag
-drawable dominican_flag
+drawable dominican_republic_flag
 drawable ecu_flag
 drawable egypt_flag
+drawable el_salvador_flag
 drawable eritrea_flag
 drawable esto_flag
 drawable eswa_flag
@@ -772,7 +773,6 @@ drawable mali_flag
 drawable malta_flag
 drawable mariana_flag
 drawable marino_flag
-drawable mario_big
 drawable marshall_flag
 drawable martini_flag
 drawable mauritania_flag
@@ -845,7 +845,6 @@ drawable sierra_flag
 drawable singapore_flag
 drawable sint_flag
 drawable sjm_flag
-drawable sla_flag
 drawable slovakia_flag
 drawable slovenia_flag
 drawable solomon_flag

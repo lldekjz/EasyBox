@@ -17,7 +17,6 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Spinner;
 import android.widget.TextView;
-import android.widget.Toast;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -82,13 +81,6 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
 
         telephone_code.addTextChangedListener(telephone_code_text_watcher);
 
-        telephone_code.setOnFocusChangeListener(new View.OnFocusChangeListener() {
-            @Override
-            public void onFocusChange(View v, boolean hasFocus) {
-                Toast.makeText(SubmitPhoneNumberActivity.this, "ggg", Toast.LENGTH_LONG).show();
-            }
-        });
-
     }
 
     public class TelephoneCodeSpinnerItem {
@@ -121,8 +113,6 @@ public class SubmitPhoneNumberActivity extends AppCompatActivity {
     }
 
     public class TelephoneCodeSpinnerAdapter extends ArrayAdapter<TelephoneCodeSpinnerItem>{
-
-        private View convertView_1 = null, convertView_2 = null;
 
         public TelephoneCodeSpinnerAdapter(Context context, ArrayList<TelephoneCodeSpinnerItem> telephone_code_list) {
             super(context, 0, telephone_code_list);
